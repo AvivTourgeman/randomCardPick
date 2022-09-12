@@ -4,7 +4,7 @@ My program layout:
 
 stage 1:
 store card data in data structure 
-I did it using 2 lists
+I did it using 2 lists:
 1- storing the suits
 2-for storing the rank of the cards
 
